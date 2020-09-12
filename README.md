@@ -1,1 +1,2 @@
-# サクラエディタのマクロ集https://sakura-editor.github.io/
+# サクラエディタのマクロ集
+https://sakura-editor.github.io/
